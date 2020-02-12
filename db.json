@@ -1,8 +1,36 @@
 {
     "posts": [
       {
-        "id": 1,
-        "title": "hello"
+        "url": "https://www.jyvaskyla.fi/uutinen/2020-02-12_helmikuun-viittomakielinen-tiedotevideo-katsottavissa-nettisivulla",
+        "title": "Helmikuun viittomakielinen tiedotevideo katsottavissa nettisivulla"
+      },
+      {
+        "url": "https://www.jyvaskyla.fi/uutinen/2020-02-12_perhehoitopilotilla-vakiinnutettiin-perhehoidon-asemaa-keski-suomessa",
+        "title": "Yhteisen toimintaohjeen luominen maakunnalliseen perhehoitoon oli tärkeää. Yhteistyö kuntien kesken toimii hyvin."
+      },
+      {
+        "url": "https://www.maaseuduntulevaisuus.fi/metsa/artikkeli-1.972651",
+        "title": "Pihapiirin puukasa sapettaa metsänomistajaa – UPM:n energiapuut yhä noutamatta yli kahden vuoden jälkeen"
+      },
+      {
+        "url": "https://yle.fi/uutiset/3-11203044?origin=rss",
+        "title": "Epäonnistunut viestintä aiheutti moraalisen paniikin Jyväskylässä – professori: \"Mikään ei ole suomalaisille niin vastenmielistä kuin pakko\""
+      },
+      {
+        "url": "https://aksa.fi/kristian-grohn-teki-slopestyle-paluun/",
+        "title": "Kristian Gröhn teki slopestyle -paluun"
+      },
+      {
+        "url": "https://www.jyvaskyla.fi/uutinen/2020-02-11_sampoharjun-terveysaseman-avoimissa-ovissa-tietoa-ja-tukea-yksinaisyyden",
+        "title": "Sampoharjun terveysaseman avoimissa ovissa tietoa ja tukea yksinäisyyden helpottamiseen ja liikunnan aloittamiseen 14.2.2020"
+      },
+      {
+        "url": "https://www.jyvaskyla.fi/uutinen/2020-02-11_ennatysmaara-kolmasluokkaisia-haki-jyvaskylan-musiikkiluokalle",
+        "title": "Ennätysmäärä kolmasluokkaisia haki Jyväskylän musiikkiluokalle"
+      },
+      {
+        "url": "https://www.jyvaskyla.fi/uutinen/2020-02-11_lomalokki-kokoaa-talviloman-toimintaa-lapsille-ja-nuorille-jyvaskylassa",
+        "title": "Lomalokki kokoaa talviloman toimintaa lapsille ja nuorille Jyväskylässä"
       }
     ],
     "profile": {
